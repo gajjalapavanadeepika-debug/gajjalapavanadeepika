@@ -5,9 +5,11 @@
 
 - 📫 How to reach me **gajjalapavanadeepika@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mHPrwZfrvPsUhST4ULxAdF4rb_Nx2F_p/view?usp=sharing](https://drive.google.com/file/d/1mHPrwZfrvPsUhST4ULxAdF4rb_Nx2F_p/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pavanadeepika-gajjala-33360735a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pavanadeepika-gajjala-33360735a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavanadeepika-gajjala-33360735a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavanadeepika-gajjala-33360735a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/gajjalapavanadeepika_2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gajjalapavanadeepika_2005/" height="30" width="40" /></a>
 </p>
 
